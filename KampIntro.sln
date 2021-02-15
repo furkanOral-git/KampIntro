@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql", "Sql\Sql.csproj", "{56AB3353-8815-46BC-B135-9084630020A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{072EEBC8-479D-4AE6-94D6-CE8D88FD34D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AB3353-8815-46BC-B135-9084630020A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AB3353-8815-46BC-B135-9084630020A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AB3353-8815-46BC-B135-9084630020A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AB3353-8815-46BC-B135-9084630020A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072EEBC8-479D-4AE6-94D6-CE8D88FD34D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072EEBC8-479D-4AE6-94D6-CE8D88FD34D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072EEBC8-479D-4AE6-94D6-CE8D88FD34D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072EEBC8-479D-4AE6-94D6-CE8D88FD34D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC28591-020A-40CE-9B06-2FD2F175F628}
+	EndGlobalSection
+EndGlobal
